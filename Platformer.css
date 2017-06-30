@@ -1,0 +1,23 @@
+
+canvas{
+	background-color:white;
+	border:1px solid black;
+}
+#Points{
+	position:absolute;
+	top:25px;
+	left:31px;
+	font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+#Winner{
+	position:absolute;
+	top:200px;
+	left:400px;
+	visibility:hidden;
+	color:white;
+}
